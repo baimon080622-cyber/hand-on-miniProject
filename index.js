@@ -10,7 +10,7 @@ const buttonCal     = document.getElementById("buttonCal");
 
 console.log(list)
 
-console.log(buttonAdd)
+console.log(button)
 //
 // Methods
 //
